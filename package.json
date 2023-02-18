@@ -2,7 +2,7 @@
   "name": "@infotorg/mask-data-severity-levels",
   "version": "1.0.0",
   "description": "Infotorg mask data severity levels",
-  "main": "dist/index.js",
+  "main": "dist/mask-data-severity-levels.js",
   "engines": {
     "node": ">=12"
   },
